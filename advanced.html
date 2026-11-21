@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Advanced | Faculty AI Hub (pilot)</title>
+<link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+<div class="header-inner">
+<div class="brand-row">
+<a class="site-name" href="index.html">Faculty AI Hub</a>
+<span class="pilot-tag">Pilot · not official</span>
+</div>
+<nav class="site-nav" aria-label="Main">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="schedule.html">Schedule</a></li>
+<li><a href="sign-up.html">Sign up</a></li>
+<li><a href="entry.html">Entry</a></li>
+<li><a href="mid.html">Mid</a></li>
+<li><a href="advanced.html" aria-current="page">Advanced</a></li>
+<li><a href="licenses.html">Licenses</a></li>
+<li><a href="data-rules.html">Data rules</a></li>
+<li><a href="locations.html">Locations</a></li>
+<li><a href="help.html">Get help</a></li>
+<li><a href="ai-at-jhu.html">AI at JHU</a></li>
+<li><a href="resources.html">Resources</a></li>
+</ul>
+</nav>
+</div>
+</header>
+<main id="main">
+<h1>Advanced: build systems others can run</h1>
+<p>This tier is for building agent systems that your lab or department can rely on. You will learn to split work among agents, connect tools, and verify results at scale.</p>
+<div class="box">
+<h2>Before you start</h2>
+<ul>
+<li>We suggest finishing the <a href="mid.html">Mid tier</a> first.</li>
+<li>You need a Claude license that includes Claude Code. See <a href="licenses.html">licenses</a>.</li>
+<li>Advanced runs as colloquia from March 1. Advanced small groups start in fall 2027.</li>
+</ul>
+</div>
+
+<h2>Steps</h2>
+<ol class="steps">
+<li><span class="step-title">Use subagents and choose models by cost</span>. Subagents are helper agents with their own working space. Smaller models cost less and suit simple jobs.
+<ul>
+<li><a href="https://code.claude.com/docs/en/sub-agents">Create custom subagents</a> <span class="src">(Anthropic)</span>. Docs on creating custom Claude Code subagents with their own prompts, tools and context.</li>
+<li><a href="https://academy.claude.com/courses/introduction-to-subagents">Introduction to subagents</a> <span class="src">(Anthropic)</span>. Four-lesson course on delegating tasks to Claude Code subagents with their own context windows.</li>
+</ul></li>
+<li><span class="step-title">Add hooks and automatic checks</span>. A hook runs your own command at set moments, such as after every edit.
+<ul>
+<li><a href="https://code.claude.com/docs/en/hooks">Hooks reference</a> <span class="src">(Anthropic)</span>. Reference for Claude Code hooks: events, configuration and how they run.</li>
+</ul></li>
+<li><span class="step-title">Connect other systems with MCP</span>. The Model Context Protocol (MCP) lets agents reach tools and data. IT@JH handles requests for a JHU connector.
+<ul>
+<li><a href="https://code.claude.com/docs/en/mcp">Connect Claude Code to tools via MCP</a> <span class="src">(Anthropic)</span>. Docs on connecting Claude Code to external tools and data through MCP servers.</li>
+<li><a href="https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro">What is the Model Context Protocol (MCP)?</a> <span class="src">(Anthropic)</span>. MCP introduction explaining what the protocol is and what it connects.</li>
+<li><a href="https://academy.claude.com/courses/introduction-to-model-context-protocol">Introduction to Model Context Protocol</a> <span class="src">(Anthropic)</span>. Course on building MCP servers and clients with the Python SDK: tools, resources and prompts.</li>
+</ul></li>
+<li><span class="step-title">Go deeper on MCP</span>. Advanced topics cover how servers and clients talk to each other.
+<ul>
+<li><a href="https://academy.claude.com/courses/model-context-protocol-advanced-topics">Model Context Protocol: Advanced topics</a> <span class="src">(Anthropic)</span>. Course on MCP sampling, notifications and roots, with interactive walkthroughs.</li>
+</ul></li>
+<li><span class="step-title">Write and share skills</span>. A shared skill lets a whole lab work the same way. Anthropic's public examples are a good start.
+<ul>
+<li><a href="https://code.claude.com/docs/en/skills">Extend Claude with skills</a> <span class="src">(Anthropic)</span>. Docs on creating and using Claude Code skills to extend what Claude can do.</li>
+<li><a href="https://github.com/anthropics/skills">Skills repository on GitHub</a> <span class="src">(Anthropic)</span>. GitHub repository of Anthropic&#x27;s public example skills for Claude.</li>
+</ul></li>
+<li><span class="step-title">Use APIs and high-performance computing</span>. Scripts can call models directly and run at scale on JHU's research clusters.
+<ul>
+<li><a href="https://hopgpt.it.jh.edu/api-access/">HopGPT API access</a> <span class="src">(JHU)</span>. HopGPT support page on API access to JHU&#x27;s language models.</li>
+<li><a href="https://docs.arch.jhu.edu/en/latest/">ARCH Clusters Guide</a> <span class="src">(JHU)</span>. Documentation for JHU&#x27;s ARCH research computing clusters.</li>
+<li><a href="https://github.com/anthropics/claude-cookbooks">Claude Cookbooks on GitHub</a> <span class="src">(Anthropic)</span>. GitHub repository of notebooks and recipes showing effective ways to use Claude.</li>
+</ul></li>
+<li><span class="step-title">Compare with the OpenAI cookbook</span>. Seeing a second maker's recipes shows which ideas carry across tools.
+<ul>
+<li><a href="https://developers.openai.com/cookbook">OpenAI Cookbook</a> <span class="src">(OpenAI)</span>. Searchable collection of OpenAI cookbook examples and guides for building with the API.</li>
+</ul></li>
+<li><span class="step-title">Verify at scale</span>. Keep provenance (where each value came from), add review passes, and write down data contracts (the shape of each input and output).
+<ul>
+<li><a href="https://code.claude.com/docs/en/best-practices">Best practices for Claude Code</a> <span class="src">(Anthropic)</span>. Docs with tips for getting better results from Claude Code.</li>
+</ul></li>
+</ol>
+<h2>The AI Commons</h2>
+<p>A shared place for skills and worked examples. First items arrive March 1, 2027. <span class="soon">Coming soon</span></p>
+
+<h2>Paired LinkedIn Learning courses</h2>
+<p><span class="note">JHU sign-in required</span> <a href="https://hr.jhu.edu/learning-development/linkedin-learning/">How to sign in to LinkedIn Learning with your JHU account</a> <span class="src">(JHU HR)</span>.</p>
+<ul>
+<li><a href="https://www.linkedin.com/learning/model-context-protocol-advanced-topics-by-anthropic?u=2106537">Model Context Protocol: Advanced Topics by Anthropic</a> <span class="src">(LinkedIn Learning)</span> <span class="note">JHU sign-in required</span>. Anthropic course on MCP sampling, notifications and roots with interactive walkthroughs.</li>
+<li>Maximize Your Claude Code Programming Productivity <span class="src">(LinkedIn Learning)</span> <span class="note">JHU sign-in required</span>. Search LinkedIn Learning for this title.</li>
+<li>Claude Agents: Build a Multi-Agent Research System <span class="src">(LinkedIn Learning)</span> <span class="note">JHU sign-in required</span>. Search LinkedIn Learning for this title.</li>
+</ul>
+
+<h2>Recordings and handouts</h2>
+<p><span class="soon">Coming soon</span>. First items planned for March 1, 2027, in the AI Commons.</p>
+
+<h2>Next step</h2>
+<p>Keep going: see the <a href="schedule.html">schedule</a> for colloquia and Exchanges, or visit the <a href="help.html">Genius Bar</a> for help with your own project.</p>
+</main>
+<footer class="site-footer">
+<div class="footer-inner">
+<p>A pilot of the DSAI Center for Disciplinary Practice. Not an official university page.</p>
+<p>Last checked: November 2026</p>
+<p><a href="https://github.com/proflouishyman/dsai-ai-hub">Source and corrections on GitHub</a></p>
+</div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,58 @@
+url,status,final_url,verdict,method,note,checked_at,pages
+https://academy.claude.com/courses/ai-fluency-framework-foundations,200,https://academy.claude.com/courses/ai-fluency-framework-foundations,OK,http,,2026-11-21,entry.html;resources.html
+https://academy.claude.com/courses/claude-101,200,https://academy.claude.com/courses/claude-101,OK,http,,2026-11-21,entry.html;resources.html
+https://academy.claude.com/courses/claude-code-101,200,https://academy.claude.com/courses/claude-code-101,OK,http,,2026-11-21,mid.html;resources.html
+https://academy.claude.com/courses/claude-code-in-action,200,https://academy.claude.com/courses/claude-code-in-action,OK,http,,2026-11-21,mid.html;resources.html
+https://academy.claude.com/courses/introduction-to-model-context-protocol,200,https://academy.claude.com/courses/introduction-to-model-context-protocol,OK,http,,2026-11-21,advanced.html;resources.html
+https://academy.claude.com/courses/introduction-to-subagents,200,https://academy.claude.com/courses/introduction-to-subagents,OK,http,,2026-11-21,advanced.html;resources.html
+https://academy.claude.com/courses/model-context-protocol-advanced-topics,200,https://academy.claude.com/courses/model-context-protocol-advanced-topics,OK,http,,2026-11-21,advanced.html;resources.html
+https://academy.openai.com/,200,https://academy.openai.com/,OK,http,,2026-11-21,entry.html;resources.html
+https://academy.openai.com/home/collections/education-ai,200,https://academy.openai.com/public/collections/education-ai?slugs=education-ai,OK,http,,2026-11-21,entry.html;resources.html
+https://ai.jhu.edu/,200,https://ai.jhu.edu/,OK,browser,plain GET 403; title=Johns Hopkins Data Science and AI Institute,2026-11-21,ai-at-jhu.html
+https://chat.ai.jh.edu/,200,https://chat.ai.jh.edu/login,OK,browser,plain GET 403; title=HopGPT,2026-11-21,ai-at-jhu.html;licenses.html
+https://code.claude.com/docs/en/best-practices,200,https://code.claude.com/docs/en/best-practices,OK,http,,2026-11-21,advanced.html;mid.html;resources.html
+https://code.claude.com/docs/en/common-workflows,200,https://code.claude.com/docs/en/common-workflows,OK,http,,2026-11-21,mid.html;resources.html
+https://code.claude.com/docs/en/hooks,200,https://code.claude.com/docs/en/hooks,OK,http,,2026-11-21,advanced.html;resources.html
+https://code.claude.com/docs/en/mcp,200,https://code.claude.com/docs/en/mcp,OK,http,,2026-11-21,advanced.html;resources.html
+https://code.claude.com/docs/en/memory,200,https://code.claude.com/docs/en/memory,OK,http,,2026-11-21,mid.html;resources.html
+https://code.claude.com/docs/en/overview,200,https://code.claude.com/docs/en/overview,OK,http,,2026-11-21,mid.html;resources.html
+https://code.claude.com/docs/en/quickstart,200,https://code.claude.com/docs/en/quickstart,OK,http,,2026-11-21,mid.html;resources.html
+https://code.claude.com/docs/en/settings,200,https://code.claude.com/docs/en/settings,OK,http,,2026-11-21,mid.html;resources.html
+https://code.claude.com/docs/en/skills,200,https://code.claude.com/docs/en/skills,OK,http,,2026-11-21,advanced.html;mid.html;resources.html
+https://code.claude.com/docs/en/sub-agents,200,https://code.claude.com/docs/en/sub-agents,OK,http,,2026-11-21,advanced.html;resources.html
+https://ctei.jhu.edu/,200,https://ctei.jhu.edu/,OK,http,,2026-11-21,ai-at-jhu.html;help.html
+https://ctei.jhu.edu/teaching-and-ai/,200,https://ctei.jhu.edu/teaching-and-ai/,OK,http,,2026-11-21,ai-at-jhu.html;help.html
+https://dataservices.library.jhu.edu/,200,https://dataservices.library.jhu.edu/,OK,http,,2026-11-21,ai-at-jhu.html;help.html
+https://developers.openai.com/cookbook,200,https://developers.openai.com/cookbook,OK,http,,2026-11-21,advanced.html;resources.html
+https://docs.arch.jhu.edu/en/latest/,200,https://docs.arch.jhu.edu/en/latest/,OK,http,,2026-11-21,advanced.html;ai-at-jhu.html
+https://genai.jhu.edu/,200,https://genai.jhu.edu/,OK,browser,plain GET 403; title=Generative Artificial Intelligence | Johns Hopkins University,2026-11-21,ai-at-jhu.html
+https://github.com/anthropics/claude-cookbooks,200,https://github.com/anthropics/claude-cookbooks,OK,http,,2026-11-21,advanced.html;resources.html
+https://github.com/anthropics/prompt-eng-interactive-tutorial,200,https://github.com/anthropics/prompt-eng-interactive-tutorial,OK,http,,2026-11-21,entry.html;resources.html
+https://github.com/anthropics/skills,200,https://github.com/anthropics/skills,OK,http,,2026-11-21,advanced.html;mid.html;resources.html
+https://github.com/openai/codex,200,https://github.com/openai/codex,OK,http,,2026-11-21,mid.html;resources.html
+https://github.com/proflouishyman/dsai-ai-hub,404,https://github.com/proflouishyman/dsai-ai-hub,DEAD,browser,plain GET 404; title=Page not found · GitHub · GitHub,2026-11-21,404.html;advanced.html;ai-at-jhu.html;data-rules.html;entry.html;help.html;index.html;licenses.html;locations.html;mid.html;resources.html;schedule.html;sign-up.html
+https://guides.library.jhu.edu/ai-foundations,200,https://guides.library.jhu.edu/ai-foundations,OK,http,,2026-11-21,ai-at-jhu.html;entry.html
+https://guides.library.jhu.edu/using-AI,200,https://guides.library.jhu.edu/using-AI,OK,http,,2026-11-21,ai-at-jhu.html
+https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt,200,https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt,OK,http,,2026-11-21,entry.html;resources.html
+https://hopgpt.it.jh.edu/api-access/,200,https://hopgpt.it.jh.edu/api-access/,OK,browser,plain GET 403; title=HopGPT Support,2026-11-21,advanced.html;ai-at-jhu.html
+https://hr.jhu.edu/learning-development/linkedin-learning/,200,https://hr.jhu.edu/learning-development/linkedin-learning/,OK,browser,plain GET 403; title=LinkedIn Learning | Human Resources,2026-11-21,advanced.html;entry.html;mid.html;resources.html
+https://it.johnshopkins.edu/ai/,200,https://it.johnshopkins.edu/ai/,OK,browser,plain GET 403; title=Artificial Intelligence | Information Technology,2026-11-21,ai-at-jhu.html;licenses.html
+https://it.johnshopkins.edu/ai/claude/,200,https://it.johnshopkins.edu/ai/claude/,OK,browser,plain GET 403; title=Claude Licenses for JHU | Information Technology,2026-11-21,ai-at-jhu.html;data-rules.html;entry.html;help.html;licenses.html
+https://it.johnshopkins.edu/ai/guidelines-for-responsible-use-of-ai/,200,https://it.johnshopkins.edu/ai/guidelines-for-responsible-use-of-ai/,OK,browser,plain GET 403; title=Guidelines for Responsible Use of AI | Information Technology,2026-11-21,ai-at-jhu.html;data-rules.html;entry.html
+https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro,200,https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro,OK,http,,2026-11-21,advanced.html;resources.html
+https://ospo.library.jhu.edu/services/github-enterprise/github-copilot-for-jhu/,200,https://ospo.library.jhu.edu/services/github-enterprise/github-copilot-for-jhu/,OK,http,,2026-11-21,ai-at-jhu.html
+https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview,200,https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview,OK,http,,2026-11-21,entry.html;resources.html
+https://portal.ai.jh.edu/enterprise-ai-license-form,0,https://portal.ai.jh.edu/enterprise-ai-license-form,FLAGGED,skipped,JHU network only (by design),2026-11-21,ai-at-jhu.html;licenses.html
+https://registrar.jhu.edu/ferpa-compliance/what-is-ferpa/,200,https://registrar.jhu.edu/ferpa-compliance/what-is-ferpa/,OK,browser,plain GET 403; title=What is FERPA? | University Registrar,2026-11-21,ai-at-jhu.html;data-rules.html
+https://researchit.jhu.edu/artificial-intelligence/,200,https://researchit.jhu.edu/artificial-intelligence/,OK,browser,plain GET 403; title=Research Information Technology,2026-11-21,ai-at-jhu.html
+https://support.claude.com/en/articles/9517075-what-are-projects,200,https://support.claude.com/en/articles/9517075-what-are-projects,OK,http,,2026-11-21,entry.html;resources.html
+https://wseit.engineering.jhu.edu/get-help/generative-ai-chatgpt-information/,200,https://wseit.engineering.jhu.edu/get-help/generative-ai-chatgpt-information/,OK,browser,"plain GET 403; title=Generative AI & Large Language Models (LLMs) – ChatGPT, Claude, HopGPT & More",2026-11-21,ai-at-jhu.html
+https://www.hopkinsmedicine.org/patient-privacy-information,200,https://www.hopkinsmedicine.org/patient-privacy-information,OK,browser,plain GET 403; title=Patient Privacy Information | Johns Hopkins Medicine,2026-11-21,ai-at-jhu.html;data-rules.html
+https://www.library.jhu.edu/library-services/ai/,200,https://www.library.jhu.edu/library-services/ai/,OK,browser,plain GET 403; title=Artificial Intelligence in Academic Work - Sheridan Libraries,2026-11-21,ai-at-jhu.html
+https://www.linkedin.com/learning/ai-fluency-for-educators-by-anthropic?u=2106537,200,https://www.linkedin.com/learning/ai-fluency-for-educators-by-anthropic?u=2106537,OK,http,,2026-11-21,entry.html;resources.html
+https://www.linkedin.com/learning/claude-101-by-anthropic?u=2106537,200,https://www.linkedin.com/learning/claude-101-by-anthropic?u=2106537,OK,http,,2026-11-21,entry.html;resources.html
+https://www.linkedin.com/learning/claude-code-101-by-anthropic?u=2106537,200,https://www.linkedin.com/learning/claude-code-101-by-anthropic?u=2106537,OK,http,,2026-11-21,entry.html;resources.html
+https://www.linkedin.com/learning/claude-code-in-action-by-anthropic?u=2106537,200,https://www.linkedin.com/learning/claude-code-in-action-by-anthropic?u=2106537,OK,http,,2026-11-21,mid.html;resources.html
+https://www.linkedin.com/learning/introduction-to-agent-skills-by-anthropic?u=2106537,200,https://www.linkedin.com/learning/introduction-to-agent-skills-by-anthropic?u=2106537,OK,http,,2026-11-21,mid.html;resources.html
+https://www.linkedin.com/learning/introduction-to-subagents-by-anthropic?u=2106537,200,https://www.linkedin.com/learning/introduction-to-subagents-by-anthropic?u=2106537,OK,http,,2026-11-21,mid.html;resources.html
+https://www.linkedin.com/learning/model-context-protocol-advanced-topics-by-anthropic?u=2106537,200,https://www.linkedin.com/learning/model-context-protocol-advanced-topics-by-anthropic?u=2106537,OK,http,,2026-11-21,advanced.html;resources.html
