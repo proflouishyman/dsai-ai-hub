@@ -3,7 +3,7 @@
 ## What this is
 
 A pilot website. It is not official. It is the self-service training and one-stop hub for faculty AI at
-Johns Hopkins, run by the DSAI Center for Disciplinary Practice.
+Johns Hopkins, run by the DSAI Center for AI and Disciplinary Practice.
 
 Live site: https://proflouishyman.github.io/dsai-ai-hub/
 
